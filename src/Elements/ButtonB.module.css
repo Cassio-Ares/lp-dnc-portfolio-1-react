@@ -1,0 +1,22 @@
+.btnA {
+    width: auto;
+    height: 4rem;
+    border-radius: 0.9rem;
+    background-color: transparent;
+    font-size: 1.3rem;
+    cursor: pointer;
+  }
+  
+  .btnA:hover{
+      background-color: #74e4b7e8;
+      box-shadow: 5px 5px white;
+  
+  }
+  
+  .btnA a{
+      text-decoration: none;
+      color: white;
+  }
+  
+  
+  

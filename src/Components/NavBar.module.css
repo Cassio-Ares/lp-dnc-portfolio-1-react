@@ -1,0 +1,34 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navBar ul {
+  display: flex;
+  list-style: none;
+
+}
+
+.navBar nav {
+  margin-left: -2.5rem;
+}
+
+.navBar nav {
+  margin-left: -70px;
+}
+
+.navBar a {
+  color: aliceblue;
+  cursor: pointer;
+}
+
+
+.navBar li {
+  color: aliceblue;
+  display: flex;
+  padding-left: 2rem;
+  cursor: pointer;
+}
+
+
+ 

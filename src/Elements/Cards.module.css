@@ -1,0 +1,26 @@
+.cards{
+    display: flex;
+    margin-bottom: 3%;
+    box-sizing: border-box;
+}
+
+.cards section{
+ background: rgba(1, 9, 28, 0.90);
+ border-radius: 0.9rem;
+ color: aliceblue;
+ text-align: justify;
+ padding-left: 2%;
+ padding-right: 8%;
+ margin-top: 1%;
+ height: 40%;
+ padding-bottom: 1.5%;
+}
+
+.cards section h3{
+    font-size: 1.7rem;
+}
+
+.cards section button{
+    margin-top: 7%;
+    
+}

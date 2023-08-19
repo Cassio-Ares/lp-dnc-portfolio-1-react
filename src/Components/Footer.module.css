@@ -1,0 +1,12 @@
+.footer ul{
+    margin-top: 6%;
+  list-style: none;
+  display: flex;
+  color: aliceblue;
+  justify-content: center;
+  margin-right: 7%;
+}
+
+.footer ul li{
+    margin-left: 5%;
+}

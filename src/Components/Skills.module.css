@@ -1,0 +1,14 @@
+.skills {
+  margin-top: 8%;
+  background: rgba(1, 9, 28, 0.75);
+  border-radius: 1.25rem;
+  padding-top: 0.5%;
+  padding-bottom: 2%;
+}
+
+.skills img{
+    padding: 2%;
+    width: 13%;
+}
+
+
