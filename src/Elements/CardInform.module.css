@@ -1,0 +1,18 @@
+.cardInform {
+  background: rgba(1, 9, 28, 0.9);
+  border-radius: 0.9rem;
+  color: aliceblue;
+  width: 25%;
+  margin-top: -10rem;
+  position: absolute;
+}
+
+.cardInform span{
+    text-transform: uppercase;
+}
+
+.cardInform p{
+   font-size: 1rem !important;
+}
+
+
