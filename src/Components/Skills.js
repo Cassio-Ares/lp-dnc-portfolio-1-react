@@ -4,6 +4,7 @@ import css from '../Image/skills/css.svg'
 import js from '../Image/skills/js.svg'
 import react from '../Image/skills/react.svg'
 import tp from '../Image/skills/tp.svg'
+import CardInform from '../Elements/CardInform'
 
 
 function Skills(){
@@ -12,12 +13,11 @@ function Skills(){
             <h1>Habilidades</h1>
             <p>Conheça um pouco das minhas principais habilidades e conhecimentos.</p>
             <figure>
-                <img src={html}/>
+                <img src={html}/> 
                 <img src={css}/>
                 <img src={js}/>
                 <img src={react}/>
                 <img src={tp}/>
-
             </figure>
         </div>
     )

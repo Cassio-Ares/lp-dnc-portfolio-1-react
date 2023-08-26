@@ -9,6 +9,13 @@
 .skills img{
     padding: 2%;
     width: 13%;
+    transition-duration: 0.5s;
+}
+
+.skills img:hover{
+  transform: translateY(-10px);
+  transition-duration: 0.5s;
+  width: 18%;
 }
 
 
